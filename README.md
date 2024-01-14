@@ -1,9 +1,3 @@
-<div>
- <h3 align="center"> NumberTap</h3>
-  <p align="center">
-    A game that allows you to improve your math skills.
-</div>
-
 2022 University group project of 3 people, for module about group work and Agile
 
 
